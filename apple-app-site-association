@@ -4,6 +4,7 @@
 		"details": [
 			{
 				"appID": "5M4Q2V3XC7.com.openedgepay.openedgemobile",
+				"paths": ["*"]
 			}
 		]
 	}
